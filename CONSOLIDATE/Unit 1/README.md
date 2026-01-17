@@ -1,0 +1,16 @@
+In Unit 1 We Learned About Basic Concepts Of Python Language. 
+And Started Coding A Little Bit In Online Compiler As Well As Things We Learned In This Unit is Below. 
+ - Basic Of Software Development, It's Importance and The Roles Of It in different Industries.
+ - Problems Faced By Software Developers
+ - Challanges In Software Development
+ - Learned About Software Development Lifecycle. Different 6 Stages In SDLC Like
+    - Requirement Gathering, Designing, Impelementation, Testing, Deployement, Maintenance And Support,
+ - Get To Knew About 2 Different Software Development Models.
+   1. Agile Methodology
+   2. Water Model
+ - Learnend About IDE(Integrated Development Envirment) There Are Many IDE Available Like PyCharm, VS CODE etc.
+   Here We Set-Uped and learned about VS CODE.
+ - Knew Importance of Project Managemnt - Planning And Tracking.
+ - Get To Knew About Version Control, It's Importance And As An Example Go Through Git As Version Control Tool.
+ - Go Through Some SDLC Case Studies Knew How Things Go Wrong Or Go Perfect.
+
