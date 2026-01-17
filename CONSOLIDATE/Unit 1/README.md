@@ -1,3 +1,13 @@
+Tasks In Unit 1
+There Were 2 Task
+ Task 1. Create Basic Hello World Programme.
+ 
+ Task 2. And For Pracitce and Go Beyond Hello World We had To Print Below Lines
+    1) A message saying 'Welcome to the Software Development unit'
+    2) A message saying 'Hello, my name is YOUR_NAME' - replace YOUR_NAME with your own name
+    3) A message saying 'Learning Python is easy, and I am really enjoying it!'
+
+
 In Unit 1 We Learned About Basic Concepts Of Python Language. 
 And Started Coding A Little Bit In Online Compiler As Well As Things We Learned In This Unit is Below. 
  - Basic Of Software Development, It's Importance and The Roles Of It in different Industries.
